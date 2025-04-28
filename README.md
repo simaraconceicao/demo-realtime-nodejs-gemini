@@ -48,7 +48,7 @@ COPY . .
 CMD ["npm", "start"]
 ```
 
-### ** 2️⃣Deploy no Cloud Run**
+### **2️⃣ Deploy no Cloud Run**
 
 ```sh
 gcloud run deploy websocket-node-gemini-service \
