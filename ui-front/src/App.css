@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.markdown-container {
+    margin: 10px 0px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    border-radius: 4px;
+}
+
+h1 {
+    color: #555;
+}
+
+h2 {
+    color: #666;
+}
+
+h3 {
+    color: #777;
+}
